@@ -294,10 +294,7 @@ Vanity URL name
                 </div>
                 <div className="contact-link-text">
                   <div className="label">LinkedIn</div>
-                  <div className="value">www.linkedin.com/in/
-snehaha-k
-Vanity URL name
-</div>
+                  <div className="value">https://www.linkedin.com/in/snehaha-k/</div>
                 </div>
                 <ArrowUpRight size={16} style={{ marginLeft: 'auto', color: 'var(--text-light)' }} />
               </a>
